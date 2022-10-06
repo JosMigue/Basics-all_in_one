@@ -5,7 +5,7 @@ import Feature from '../components/ui/Feature'
 export default function Home() {
   let features = [
     {title: 'Task list', description: 'Basic CRUD task list', url:'/tasks'},
-    {title: 'Another feature', description: 'cool feature', url:'#'},
+    {title: 'Products', description: 'Ecommerce products', url:'/products'},
     {title: 'Another feature', description: 'cool feature', url:'#'}
   ];
   return (
